@@ -1,0 +1,8 @@
+cmake 
+dlib
+face-recogination
+CVzone # cvzone install numpy and open cv both if you want to install seprately than it up you
+opencv 4.5.0.60
+firebase data base
+datetime 
+
