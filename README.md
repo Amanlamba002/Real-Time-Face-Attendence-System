@@ -55,7 +55,7 @@ The Real-Time Face Attendance System is an advanced project that utilizes cuttin
 ## Demo
 
 
-![Masterhead](https://drive.google.com/file/d/1p3uRhozqrokxr_ZM9SOBaFvVXauryTyU/view?usp=sharing)
+![Masterhead]()
 
 ## Authors
 
