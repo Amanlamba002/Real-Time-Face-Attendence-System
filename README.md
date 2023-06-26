@@ -53,7 +53,7 @@ The Real-Time Face Attendance System is an advanced project that utilizes cuttin
 **Marked Mode** - Attendance successfully marked.\
 **Already Marked Mode** - Prevents duplicate attendance entries.
 ## Demo
-![Masterhead](https://github-production-user-asset-6210df.s3.amazonaws.com/76461226/248705256-9d61cee1-7c37-4010-80ee-fd7ba88364ff.mp4)
+![Masterhead](https://www.mediafire.com/file/rs07hgo5mp1oqp6/Project_06-26_HD+720p_MEDIUM_FR30+(1).mp4/file)
 
 
 ## Authors
