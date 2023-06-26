@@ -14,8 +14,8 @@ cred = credentials.Certificate("serviceAccountKey.json") # setup the credential 
 #     'storageBucket':"gs://realtimeattendance-87ec7.appspot.com"
 # })  
 firebase_admin.initialize_app(cred,{
-    'databaseURL':"https://realtimeattendance-87ec7-default-rtdb.firebaseio.com/",
-    'storageBucket':"realtimeattendance-87ec7.appspot.com"
+    'databaseURL':"write your own data base url",
+    'storageBucket':"write your own"
 }) 
 
 # importing the face images
