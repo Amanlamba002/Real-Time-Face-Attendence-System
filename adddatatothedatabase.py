@@ -5,7 +5,7 @@ from firebase_admin import db
 
 cred = credentials.Certificate("serviceAccountKey.json") # setup the credential key
 firebase_admin.initialize_app(cred,{
-    'databaseURL':"https://realtimeattendance-87ec7-default-rtdb.firebaseio.com/"
+    'databaseURL':"write your own data base url"
 })   # setup the realtime database 
 
 
