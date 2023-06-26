@@ -15,12 +15,12 @@ from datetime import datetime
 
 cred = credentials.Certificate("serviceAccountKey.json") # setup the credential key
 # firebase_admin.initialize_app(cred,{
-#     'databaseURL':"https://realtimeattendance-87ec7-default-rtdb.firebaseio.com/",
-#     'storageBucket':"gs://realtimeattendance-87ec7.appspot.com"
+#     'databaseURL':"use your own",
+#     'storageBucket':"your own"
 # })  
 firebase_admin.initialize_app(cred,{
-    'databaseURL':"https://realtimeattendance-87ec7-default-rtdb.firebaseio.com/",
-    'storageBucket':"realtimeattendance-87ec7.appspot.com"
+    'databaseURL':"use your own",
+    'storageBucket':"use your own"
 }) 
 
  
