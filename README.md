@@ -1,13 +1,9 @@
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 010bdd0e49f647515fc0c8cad40d64a30b1e762e
 # Real-Time Face Attendance System
 
 
 
-# 
 ![Masterhead](https://cdn.sanity.io/images/4y5gb0f2/production/99ce546807fcf13b7a8dca6621510b136e41c79c-600x338.gif)
 
 
@@ -59,11 +55,6 @@ The Real-Time Face Attendance System is an advanced project that utilizes cuttin
 ## Demo
 
 
-<<<<<<< HEAD
-![Masterhead]()
-=======
-
->>>>>>> 010bdd0e49f647515fc0c8cad40d64a30b1e762e
 
 ## Authors
 
