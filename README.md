@@ -1,4 +1,8 @@
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 010bdd0e49f647515fc0c8cad40d64a30b1e762e
 # Real-Time Face Attendance System
 
 
@@ -55,7 +59,11 @@ The Real-Time Face Attendance System is an advanced project that utilizes cuttin
 ## Demo
 
 
+<<<<<<< HEAD
 ![Masterhead]()
+=======
+
+>>>>>>> 010bdd0e49f647515fc0c8cad40d64a30b1e762e
 
 ## Authors
 
